@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  margin: 1em 10%;
+}
+
+.error {
+  color: #ff604f;
+}
+
+.message-description {
+  margin-top: 2em;
+}
+
